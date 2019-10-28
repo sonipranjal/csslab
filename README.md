@@ -1,1 +1,1 @@
-# csslab practicing css
+# csslab practising css
